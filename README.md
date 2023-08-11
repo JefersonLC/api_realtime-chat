@@ -19,13 +19,13 @@ Before running the application it is necessary to configure the environment vari
 ```javascript
 // .env
 
-PORT= 3000
+PORT=3000
 
 DATABASE_URL='mysql://root:admin@localhost:3306/mydb'
 
-GOOGLE_CLIENT_ID= /* Your Google client id */
-GOOGLE_CLIENT_SECRET= /* Your Google client secret */
-GOOGLE_CALLBACK_URL ='http://localhost:3000/api/auth/google/callback'
+GOOGLE_CLIENT_ID=/* Your Google client id */
+GOOGLE_CLIENT_SECRET=/* Your Google client secret */
+GOOGLE_CALLBACK_URL='http://localhost:3000/api/auth/google/callback'
 
 SECRET_KEY='MyS3creTK3y'
 
