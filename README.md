@@ -10,7 +10,7 @@ To run the application, follow these steps:
 2. In a terminal, navigate to the folder where the application is located.
 3. Run the `npm install` command to install all the necessary dependencies.
 4. Run the `npm run dev` command to start the application in development mode.
-5. Open your browser and navigate to `http://localhost:3000` to use the calculator.
+5. Server will run on port `3000`
 
 ## Environment
 
